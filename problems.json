@@ -1,1 +1,23 @@
-{}
+{
+  "0009-palindrome-number": {
+    "name": "0009-palindrome-number"
+  },
+  "0014-longest-common-prefix": {
+    "name": "0014-longest-common-prefix"
+  },
+  "0028-find-the-index-of-the-first-occurrence-in-a-string": {
+    "name": "0028-find-the-index-of-the-first-occurrence-in-a-string"
+  },
+  "0001-two-sum": {
+    "name": "0001-two-sum"
+  },
+  "0020-valid-parentheses": {
+    "name": "0020-valid-parentheses"
+  },
+  "0013-roman-to-integer": {
+    "name": "0013-roman-to-integer"
+  },
+  "0058-length-of-last-word": {
+    "name": "0058-length-of-last-word"
+  }
+}
